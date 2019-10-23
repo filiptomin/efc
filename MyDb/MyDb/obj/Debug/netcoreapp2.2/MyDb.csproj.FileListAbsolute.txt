@@ -1,0 +1,8 @@
+C:\Users\filtomi017\source\repos\MyDb\MyDb\bin\Debug\netcoreapp2.2\MyDb.deps.json
+C:\Users\filtomi017\source\repos\MyDb\MyDb\bin\Debug\netcoreapp2.2\MyDb.runtimeconfig.json
+C:\Users\filtomi017\source\repos\MyDb\MyDb\bin\Debug\netcoreapp2.2\MyDb.runtimeconfig.dev.json
+C:\Users\filtomi017\source\repos\MyDb\MyDb\bin\Debug\netcoreapp2.2\MyDb.dll
+C:\Users\filtomi017\source\repos\MyDb\MyDb\obj\Debug\netcoreapp2.2\MyDb.csprojAssemblyReference.cache
+C:\Users\filtomi017\source\repos\MyDb\MyDb\obj\Debug\netcoreapp2.2\MyDb.csproj.CoreCompileInputs.cache
+C:\Users\filtomi017\source\repos\MyDb\MyDb\obj\Debug\netcoreapp2.2\MyDb.AssemblyInfoInputs.cache
+C:\Users\filtomi017\source\repos\MyDb\MyDb\obj\Debug\netcoreapp2.2\MyDb.AssemblyInfo.cs
