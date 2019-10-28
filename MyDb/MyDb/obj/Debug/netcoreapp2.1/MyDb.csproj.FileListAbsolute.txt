@@ -1,0 +1,11 @@
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\bin\Debug\netcoreapp2.1\MyDb.deps.json
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\bin\Debug\netcoreapp2.1\MyDb.runtimeconfig.json
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\bin\Debug\netcoreapp2.1\MyDb.runtimeconfig.dev.json
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\bin\Debug\netcoreapp2.1\MyDb.dll
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\bin\Debug\netcoreapp2.1\MyDb.pdb
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\obj\Debug\netcoreapp2.1\MyDb.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\obj\Debug\netcoreapp2.1\MyDb.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\obj\Debug\netcoreapp2.1\MyDb.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\obj\Debug\netcoreapp2.1\MyDb.AssemblyInfo.cs
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\obj\Debug\netcoreapp2.1\MyDb.dll
+C:\Users\filip\Desktop\school\efc\MyDb\MyDb\obj\Debug\netcoreapp2.1\MyDb.pdb

@@ -1,4 +1,7 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using MyDb.Data;
+using System;
+using System.Linq;
 
 namespace MyDb
 {
@@ -6,7 +9,15 @@ namespace MyDb
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var db = new ApplicationDbContext();
+            foreach (var r in db.Zavods.Include(r => r.ZavodnikZavods).OrderBy(r => r.Name).ToList())
+            {
+                Console.WriteLine("-- " + r.Name + " --");
+                foreach (var m in r.ZavodnikZavods.OrderBy(mun => mun.Zavodnik))
+                {
+                    Console.WriteLine(m.Zavodnik);
+                }
+            }
         }
     }
 }
